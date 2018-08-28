@@ -1,14 +1,14 @@
-title: Sé más que un blogger
-description:  Aprende a crear un blog.
+title: El Mundo De Shaina!
+description: Hola, soy Shaina (la autora del Blog), y os os mantendre actualizados sobre la comida y la injustica de este mundo...
 permalink: ':title/'
 baseurl: "/" 
 url: "https://canvas2017.github.io" 
 site-twitter: 
 
 
-author: Sé más que un blogger  
+author: El Mundo De Shaina! 
 author-img: logo-pie.png  
-about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3.
+about-author: Bienvenidos a mi mundo!!!! Por si no ha quedado claro, mi nombre es Shaina (ni china, ni shainy) y si te gusta el chocolate o/y leer sobre la injusticia de este mundo, has visitado el lugar perfecto!
 social-twitter: 
 social-facebook: 
 social-github: 
