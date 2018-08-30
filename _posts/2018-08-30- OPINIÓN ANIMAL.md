@@ -3,7 +3,7 @@ layout: post
 title: ¡OPINIÓN ANIMAL!
 date: 2018-08-30
 description: adelgazar y comer, chocolate y justicia
-img: animaal.png
+img: animaal.jpg
 fig-caption: 
 tags: [Comida, Justicia, Extra]
 ---
