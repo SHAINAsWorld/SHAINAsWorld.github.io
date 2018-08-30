@@ -1,3 +1,12 @@
+layout: post
+title: ¡OPINIÓN SOBRE LOS ANIMALES!
+date: 2018-08-30
+description: adelgazar y comer, chocolate y justicia
+img: animaal.png
+fig-caption: 
+tags: [Comida, Justicia, Extra]
+
+
 heeeey!, **he vuelto para cambiar vuestra vida** y hoooy... voy a expresar mi opinión sobre el maltrato animal.
 Bueno, en el último post se me olvidó mencionar que soy **Vegetariana** de nacimieno. A continuación os explicaré mi historia;
 Mis padres, siempre han sido vegetarianos y cuando yo nací, también era vegetariana. Cuando llegué a los diez años (aproximadamente),
