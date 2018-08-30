@@ -21,5 +21,6 @@ Estas son las razones principales por la que deberíamos ser vegtarianos:
 3. Respeto a los animales
 4. Respeto al medio ambiente
 5. Alimentación saludable
-En este video, verás a Michael Phelps comiendo mucho. (no tiene mucho que ver con lo que hablado pero estoy obsesionada con la comida).
+
+* En este video, verás a Michael Phelps comiendo mucho. (no tiene mucho que ver con lo que hablado pero estoy obsesionada con la comida).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zw8iljkD1So" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
