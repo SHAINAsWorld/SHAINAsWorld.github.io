@@ -6,9 +6,11 @@ me preguntaron si quería seguir siendo vegetariana, y ahí es cuando les pregun
 
 No nos damos cuenta de la cantidad de animales que estamos matando cada día simplemente para una cena o un almuerzo cuando podemos comer otras cosas riquísimas, como el chocolate, macarrones, leche, pan etc. y otras saludables, tanto como las verduras, legumbres etc.
 Estas son las razones principales por la que deberíamos ser vegtarianos:
-1.No violencia y espiritualidad
+
+1. No violencia y espiritualidad
 2. Claridad mental y energética
-3.Respeto a los animales
-4.Respeto al medio ambiente
-5.Alimentación saludable
+3. Respeto a los animales
+4. Respeto al medio ambiente
+5. Alimentación saludable
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YH338giTiv4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
