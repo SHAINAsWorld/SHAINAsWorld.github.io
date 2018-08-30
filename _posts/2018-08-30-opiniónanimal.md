@@ -4,7 +4,13 @@ Mis padres, siempre han sido vegetarianos y cuando yo nací, también era vegeta
 me preguntaron si quería seguir siendo vegetariana, y ahí es cuando les pregunté **¿Porqué sois vegetarianos?**, y me dijeron...
 **por el bien estar de los animales**, y ahí es cuando entendí *todo* y decidí seguir siendo vegetariana.
 
-No nos damos cuenta de la cantidad de animales que estamos matando cada día simplemente para una cena o un almuerzo cuando podemos comer v
+No nos damos cuenta de la cantidad de animales que estamos matando cada día simplemente para una cena o un almuerzo cuando podemos comer otras cosas riquísimas, como el chocolate, macarrones, leche, pan etc. y otras saludables, tanto como las verduras, legumbres etc.
+A parte del bien estar de los animales, también hay más razones por la que debemos ser vegetarianos:
+#dejar de comer carne también ayuda a combatir el calentamiento global
+#Una alimentación saludable ayuda a prevenir y a combatir enfermedades como la obesidad, la hipertensión o la diabetes
+#
+#
+#
 
 
 
